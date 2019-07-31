@@ -13,3 +13,4 @@ Projetos pessoais de Data Science e Machine Learning
    <h1>Data Visualization</h1>
     
   * [Matplotlib](https://github.com/JnsFerreira/PythonForDS-ML/tree/master/DataViz/Matplotlib)
+  * [Seaborn](https://github.com/JnsFerreira/PythonForDS-ML/tree/master/DataViz/Seaborn)
