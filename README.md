@@ -1,4 +1,4 @@
-# PythonForDS
+# PythonForDS&ML
 Projetos pessoais de Data Science e Machine Learning
 
 ![neil](https://imarticus.org/wp-content/uploads/2019/07/ds11.gif)
