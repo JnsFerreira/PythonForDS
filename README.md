@@ -9,3 +9,11 @@ Projetos pessoais de Data Science e Machine Learning
     *[E-commerce](https://github.com/JnsFerreira/PythonForDS-ML/tree/master/Pandas/Ecommerce)
     *[Salários San Francisco](https://github.com/JnsFerreira/PythonForDS-ML/tree/master/Pandas/SanFrancisco_Salaries)
 
+  * [Recomendações](#recomendacoes)
+      * [Iniciante](#iniciante)
+            
+      * [Intermediário](#intermediario)
+      * [Grandes projetos (big data)](#grandesprojetos)
+      * [Em Python](#empython)
+      * [Em R](#emr)
+      * [Em Julia](#emjulia)
