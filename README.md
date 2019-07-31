@@ -7,5 +7,5 @@ Projetos pessoais de Data Science e Machine Learning
 
 [Pandas](https://github.com/JnsFerreira/PythonForDS-ML/tree/master/Pandas)
     *[E-commerce](https://github.com/JnsFerreira/PythonForDS-ML/tree/master/Pandas/Ecommerce)
-    *[Salários San Francisco]((https://github.com/JnsFerreira/PythonForDS-ML/tree/master/Pandas/SanFrancisco_Salaries)
+    *[Salários San Francisco](https://github.com/JnsFerreira/PythonForDS-ML/tree/master/Pandas/SanFrancisco_Salaries)
 
