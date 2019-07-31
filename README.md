@@ -1,8 +1,6 @@
 # PythonForDS
 Projetos pessoais de Data Science e Machine Learning
 
-![neil](https://1.bp.blogspot.com/-xKuNexvS784/Wtay1XtNB2I/AAAAAAAABZI/4TQpkuBt_pozQHIQ0SQqBRiY5AyL-BU0ACLcBGAs/s1600/three.gif)
-
 ![neil](https://imarticus.org/wp-content/uploads/2019/07/ds11.gif)
 
   * [Numpy](https://github.com/JnsFerreira/PythonForDS-ML/tree/master/Numpy)
