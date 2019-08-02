@@ -20,4 +20,4 @@ Projetos pessoais de Data Science e Machine Learning
       * [Plots Matriciais](https://github.com/JnsFerreira/PythonForDS-ML/blob/master/DataViz/Seaborn/PlotsMatriciais.ipynb)
       * [Plots Regressão](https://github.com/JnsFerreira/PythonForDS-ML/blob/master/DataViz/Seaborn/PlotsRegressao.ipynb)
   <h1>Machine Learning<h1/>
-  <p>Coming Soon...</p>
+  Coming Soon
