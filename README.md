@@ -18,7 +18,7 @@ Projetos pessoais de Data Science e Machine Learning
       * [Plots Categóricos](https://github.com/JnsFerreira/PythonForDS-ML/blob/master/DataViz/Seaborn/PlotsCategoricos.ipynb)
       * [Plots Distribuição](https://github.com/JnsFerreira/PythonForDS-ML/blob/master/DataViz/Seaborn/PlotsDistribuicao.ipynb)
       * [Plots Matriciais](https://github.com/JnsFerreira/PythonForDS-ML/blob/master/DataViz/Seaborn/PlotsMatriciais.ipynb)
-      * [Pair Grid & Facet Grid](https://github.com/JnsFerreira/PythonForDS-ML/blob/master/DataViz/Seaborn/PairGrid&FacetGrid.ipynb)
+      * [Pair Grid & Facet Grid](https://github.com/JnsFerreira/PythonForDS-ML/blob/master/DataViz/Seaborn/PairGrids%26FacetGrid.ipynb)
       * [Plots Regressão](https://github.com/JnsFerreira/PythonForDS-ML/blob/master/DataViz/Seaborn/PlotsRegressao.ipynb)
   # Machine Learning
   
