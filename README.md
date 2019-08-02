@@ -3,14 +3,14 @@ Projetos pessoais de Data Science e Machine Learning
 
 ![neil](https://imarticus.org/wp-content/uploads/2019/07/ds11.gif)
 
-  <h1>Data Analytics</h1>
+  # Data Analytics
   
   * [Numpy](https://github.com/JnsFerreira/PythonForDS-ML/tree/master/Numpy)
   * [Pandas](https://github.com/JnsFerreira/PythonForDS-ML/tree/master/Pandas)
       * [Salários San Francisco](https://github.com/JnsFerreira/PythonForDS-ML/tree/master/Pandas/SanFrancisco_Salaries)
       * [E-commerce](https://github.com/JnsFerreira/PythonForDS-ML/tree/master/Pandas/Ecommerce)
       
-   <h1>Data Visualization</h1>
+  # Data Visualization
     
   * [Matplotlib](https://github.com/JnsFerreira/PythonForDS-ML/tree/master/DataViz/Matplotlib)
       * [Exemplos](https://github.com/JnsFerreira/PythonForDS-ML/blob/master/DataViz/Matplotlib/ExerciciosMatplotlib.ipynb)
@@ -19,6 +19,6 @@ Projetos pessoais de Data Science e Machine Learning
       * [Plots Distribuição](https://github.com/JnsFerreira/PythonForDS-ML/blob/master/DataViz/Seaborn/PlotsDistribuicao.ipynb)
       * [Plots Matriciais](https://github.com/JnsFerreira/PythonForDS-ML/blob/master/DataViz/Seaborn/PlotsMatriciais.ipynb)
       * [Plots Regressão](https://github.com/JnsFerreira/PythonForDS-ML/blob/master/DataViz/Seaborn/PlotsRegressao.ipynb)
-  <h1>Machine Learning<h1/>
+  # Machine Learning
   
   Coming Soon
