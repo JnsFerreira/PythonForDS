@@ -23,6 +23,8 @@ Projetos pessoais de Data Science e Machine Learning
       * [Plots Distribuição](https://github.com/JnsFerreira/PythonForDS-ML/blob/master/DataViz/Seaborn/PlotsDistribui%C3%A7%C3%A3o.ipynb)
       * [Plots Matriciais](https://github.com/JnsFerreira/PythonForDS-ML/blob/master/DataViz/Seaborn/PlotsMatriciais.ipynb)
       * [Plots Regressão](https://github.com/JnsFerreira/PythonForDS-ML/blob/master/DataViz/Seaborn/PlotsRegressao.ipynb)
+   * [Plot.ly](https://github.com/JnsFerreira/PythonForDS-ML/blob/master/DataViz/Plotly)
+      * [Plot.ly + Cufflinks](https://github.com/JnsFerreira/PythonForDS-ML/blob/master/DataViz/Plotly/Plotly%2BCufflinks.ipynb)
       
   # Machine Learning
   
