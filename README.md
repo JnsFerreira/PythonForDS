@@ -6,6 +6,7 @@ Projetos pessoais de Data Science e Machine Learning
   # Data Analytics
   
   * [Numpy](https://github.com/JnsFerreira/PythonForDS-ML/tree/master/DataAnalytics/Numpy)
+      * [Exercícios Numpy](https://github.com/JnsFerreira/PythonForDS-ML/blob/master/DataAnalytics/Numpy/Exercicios_Numpy.ipynb)
   * [Pandas](https://github.com/JnsFerreira/PythonForDS-ML/tree/master/DataAnalytics/Pandas)
       * [E-commerce](https://github.com/JnsFerreira/PythonForDS-ML/tree/master/DataAnalytics/Pandas/E-Commerce)
       * [Salários San Francisco](https://github.com/JnsFerreira/PythonForDS-ML/tree/master/DataAnalytics/Pandas/SanFranciscoSalaries)
