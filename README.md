@@ -17,6 +17,7 @@ Projetos pessoais de Data Science e Machine Learning
       * [Exemplos](https://github.com/JnsFerreira/PythonForDS-ML/blob/master/DataViz/Matplotlib/ExerciciosMatplotlib.ipynb)
   * [Seaborn](https://github.com/JnsFerreira/PythonForDS-ML/tree/master/DataViz/Seaborn)
       * [Estilos e Cores](https://github.com/JnsFerreira/PythonForDS-ML/blob/master/DataViz/Seaborn/Estilos%26Cores.ipynb)
+      * [Exercícios](https://github.com/JnsFerreira/PythonForDS-ML/blob/master/DataViz/Seaborn/ExerciciosSeaborn.ipynb)
       * [Pair Grid & Facet Grid](https://github.com/JnsFerreira/PythonForDS-ML/blob/master/DataViz/Seaborn/PairGrids%26FacetGrid.ipynb)
       * [Plots Categóricos](https://github.com/JnsFerreira/PythonForDS-ML/blob/master/DataViz/Seaborn/PlotsCategoricos.ipynb)
       * [Plots Distribuição](https://github.com/JnsFerreira/PythonForDS-ML/blob/master/DataViz/Seaborn/PlotsDistribui%C3%A7%C3%A3o.ipynb)
