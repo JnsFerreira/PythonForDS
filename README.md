@@ -10,9 +10,9 @@ Projetos pessoais de Data Science e Machine Learning
   * [Pandas](https://github.com/JnsFerreira/PythonForDS-ML/tree/master/DataAnalytics/Pandas)
       * [E-commerce](https://github.com/JnsFerreira/PythonForDS-ML/tree/master/DataAnalytics/Pandas/E-Commerce)
       * [Salários San Francisco](https://github.com/JnsFerreira/PythonForDS-ML/tree/master/DataAnalytics/Pandas/SanFranciscoSalaries)
-   * [Projetos]()
-      * [Ligações para o 911]()
-      * [Mercado Financeiro]()
+   * [Projetos](https://github.com/JnsFerreira/PythonForDS-ML/tree/master/DataAnalytics/Projetos)
+      * [Ligações para o 911](https://github.com/JnsFerreira/PythonForDS-ML/tree/master/DataAnalytics/Projetos/Liga%C3%A7%C3%B5es%20para%20o%20911)
+      * [Mercado Financeiro](https://github.com/JnsFerreira/PythonForDS-ML/tree/master/DataAnalytics/Projetos/Mercado%20Financeiro)
       
   # Data Visualization
     
