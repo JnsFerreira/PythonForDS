@@ -31,4 +31,7 @@ Projetos pessoais de Data Science e Machine Learning
       
   # Machine Learning
   
-  Coming Soon
+  * [Linear Regressions]()
+    * [Car Prices]()
+    * [USA Housing]()
+    
