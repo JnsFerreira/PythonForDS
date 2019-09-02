@@ -31,7 +31,8 @@ Projetos pessoais de Data Science e Machine Learning
       
   # Machine Learning
   
-  * [Linear Regressions]()
-    * [Car Prices]()
-    * [USA Housing]()
+  * [Linear Regressions](https://github.com/JnsFerreira/PythonForDS-ML/tree/master/MachineLearning/LinearRegressions)
+    * [Car Prices](https://github.com/JnsFerreira/PythonForDS-ML/tree/master/MachineLearning/LinearRegressions/CarPrices)
+    * [USA Housing](https://github.com/JnsFerreira/PythonForDS-ML/tree/master/MachineLearning/LinearRegressions/USAHousing)
+    * [E-commerce](https://github.com/JnsFerreira/PythonForDS-ML/tree/master/MachineLearning/LinearRegressions/Ecommerce)
     
